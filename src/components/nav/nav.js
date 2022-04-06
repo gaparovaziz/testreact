@@ -1,4 +1,4 @@
-import "./Nav.css";
+import "./nav.css";
 import NavImage from "../../assets/laptop.png";
 
 function Nav() {
